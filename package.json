@@ -1,0 +1,15 @@
+{
+    "name": "electron_sample",
+    "version": "0.0.1",
+    "main": "main.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "electron": "^3.0.10"
+    },
+    "repository": {},
+    "engines": {
+        "node": "6.x"
+    }
+}
